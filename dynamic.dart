@@ -8,4 +8,5 @@ void main() {
   errorMessage = [1, 2, 3, 4];
   print("Ahora es una matriz: ");
   print("$errorMessage");
+  //Cualquier valor es permitido en dynamic. Hay que ser cuidadosos de donde lo usamos.
 }
